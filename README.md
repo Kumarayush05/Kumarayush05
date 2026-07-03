@@ -191,15 +191,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kumarayush05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumarayush05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -213,13 +205,6 @@ Passionate about building scalable web applications, solving real-world problems
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kumarayush05&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
 
 ---
 
@@ -233,15 +218,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-
-
-
-</p>
-
----
 
 # 💡 Quote of the Day
 
