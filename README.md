@@ -237,7 +237,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Kumarayush05/Kumarayush05/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
 
 </p>
 
