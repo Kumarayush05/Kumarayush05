@@ -40,7 +40,7 @@ Passionate about building scalable web applications, solving real-world problems
 - 💬 **Ask me about:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Git, GitHub, REST APIs, JWT Authentication, Tailwind CSS, and DSA.
 
 - 👨‍💻 **Portfolio:**  
-  https://kumarayush05.github.io/personal-portfolio-website/
+  https://kumarayush-portfolio-website.vercel.app/
 
 - 📄 **Resume:**  
   https://drive.google.com/file/d/1_wwVwaZKS84Z56RoDme5UmDcWI1xMXcE/view
